@@ -66,34 +66,34 @@ body{
         height: 100%;
       } 
       .item:nth-child(1) {
-        background: url('/images/Captura\ de\ tela\ 2023-12-04\ 172555.png');
+        background: url('./images/Captura\ de\ tela\ 2023-12-04\ 172555.png');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
       }
   
       .item:nth-child(2) {
-        background: url('/images/Captura\ de\ tela\ 2023-12-04\ 172611.png');
+        background: url('./images/Captura\ de\ tela\ 2023-12-04\ 172611.png');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
       }
   
       .item:nth-child(3) {
-        background: url('/images/Captura\ de\ tela\ 2023-12-04\ 172629.png');
+        background: url('./images/Captura\ de\ tela\ 2023-12-04\ 172629.png');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
       }
       .item:nth-child(4) {
-        background: url('/images/Captura\ de\ tela\ 2023-12-19\ 220703.png');
+        background: url('./images/Captura\ de\ tela\ 2023-12-19\ 220703.png');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
       }
 
       .item:nth-child(5) {
-        background: url('/images/Captura\ de\ tela\ 2023-12-19\ 220759.png');
+        background: url('./images/Captura\ de\ tela\ 2023-12-19\ 220759.png');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
